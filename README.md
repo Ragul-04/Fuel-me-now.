@@ -1,1 +1,1 @@
-# Fuel-me-now.
+Now-a-days, vehicles play main role of transportation. Due to growth of automobiles in market, fuel consumption became more. Unfortunately because of some reason if vehicle stops due to lack of petrol, it will be very hard for the owner to push the vehicle to the nearest petrol pump. In some cases people go to new location and sometimes they won’t be having any idea of the gas stations to refuel their vehicles. We want to develop application to deliver the fuel to those who need to refuel vehicles at any location and time
