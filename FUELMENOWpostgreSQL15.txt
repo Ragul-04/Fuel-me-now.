@@ -1,0 +1,1 @@
+select fuelmenow_id as id, name, email, phone, address, addresstwo, city, state, zip, make, year, comments, created_dt as createddate from fuelmenow;
